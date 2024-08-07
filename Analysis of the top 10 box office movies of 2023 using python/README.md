@@ -5,9 +5,10 @@
 
 * The fast and furios franchise:Fast X recorded the highest budget in the year, making it the 8th most expensive movie ever made with a budget of **$345m**
 
-![image](https://github.com/user-attachments/assets/7cec0a9c-0116-4635-846e-0e9fb39c5c01)
 
-  
+
+  ![Worldwide Revenue v Budget](https://github.com/user-attachments/assets/2059b2d1-4f7c-47ad-81b2-01559e272bea)
+
 ## International v Domestic Revenues
 
 * Spiderman into the Spiderverse grossed more domestically than it did internationally
@@ -15,8 +16,7 @@
 * Fast X grossed more in foreign countries than it did domestically and was the least watched film in the United States among the top 10.
 * This shows Fast X had a bigger viewing audience outside the United States.
 
-![image](https://github.com/user-attachments/assets/61a99c5c-a37a-46d2-a793-af1fa1e379db)
-
+![Domestic v Foreign](https://github.com/user-attachments/assets/47c3327d-e85f-462a-96fe-b5fdbd341df9)
 
   
 # Recommendations and Next Steps
