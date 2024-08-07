@@ -6,4 +6,4 @@ This is a project where I analyzed the 10 movies that crushed the box office in 
 Infographic by [uniqlo](https://www.uniqlo.com/us/en/spl/ut-graphic-tees/the-super-mario-bros-movie)
 
 
-Hope you enjoy the full story on my [medium](https://medium.com/@PrinceAdvance/analysis-of-the-top-10-box-office-movies-of-2023-using-python-1755eb073534) where I rant about these movies lol
+Hope you enjoy the full story on my [medium](https://medium.com/@PrinceAdvance/analysis-of-the-top-10-box-office-movies-of-2023-using-python-1755eb073534) where I rant about these movies :joy:
