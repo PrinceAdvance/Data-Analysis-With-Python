@@ -1,4 +1,4 @@
-# Analyses of the top 10 box office movies of 2023
+# Analysis of the top 10 box office movies of 2023
 This is a project where I analyzed the 10 movies that crushed the box office in 2023.
 
 ![res9a4d8db8955f54f5217dd0dc7bb1afb4fr](https://github.com/user-attachments/assets/04cbab69-c940-4c3d-9f1a-505d83337a44)
