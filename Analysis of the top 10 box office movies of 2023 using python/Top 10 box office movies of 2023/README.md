@@ -27,10 +27,9 @@
 * From the scatter plots we realize **Elemental** had the **least revenue** of the movies *$496m*
 but made a much higher **Profit** *$296m* than *Mission: Impossible - Dead Reckoning Part One $277m* and *The Little Mermaid $266m*
 
-![alt text](<Budget v Profit-1.png>)
+![alt text](<Budget v Profit.png>)
 
 ![alt text](<Budget v W.Revenue.png>)
-
 
 
 # Recommendations and Next Steps
