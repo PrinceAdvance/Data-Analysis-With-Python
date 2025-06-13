@@ -1,0 +1,14 @@
+# Exclude HTML files from language stats
+*.html linguist-detectable=false
+
+# Ignore potential output, reports, or docs folders (adjust names if needed)
+docs/** linguist-vendored
+build/** linguist-generated
+output/** linguist-generated
+reports/** linguist-generated
+
+# Ignore Jupyter checkpoints if any
+**/.ipynb_checkpoints/** linguist-generated
+
+# Ensure Python files are counted
+*.py linguist-language=Python
