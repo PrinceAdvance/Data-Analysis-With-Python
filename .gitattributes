@@ -1,1 +1,8 @@
-static/* linguist-vendored
+# Tell GitHub linguist to ignore these for language stats
+*.png linguist-detectable=false
+Images/** linguist-generated
+assets/** linguist-generated
+
+# Boost Python visibility
+*.ipynb linguist-language=Python
+*.py linguist-language=Python
